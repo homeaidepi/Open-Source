@@ -1,3 +1,5 @@
+Chair Format
+
 [Meeting Template](chair/meetingTemplate.md)
 
 [Before the Meeting](chair/beforeMeeting.md)
