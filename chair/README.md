@@ -68,6 +68,7 @@ Note: If more than one motion is proposed, the most recent takes precedence over
 • Every member can speak to any items; however, no one can speak subsequent times as long as another wants to speak for a first time by using the hand raise
 • A majority vote decides an issue - all members have equal rights including chairman.
 * A vote can be motioned to table (so that deets can be produced for pro's and con's relative to the omission or objections to a part of the document) if a motion to postpone is seconded.
-* Chairperson will be rotated after 4 weeks for sake 
-* Chairperson can step down or ask to be rotated for sake of availability or trying to remove any perceived inherent bias
-* Chairperson can be rotated if a motion of confidence is seconded & a two-thirds vote is required for passage.
+* Chairperson(s) will be rotated after 4 weeks for sake of sharing the responsibilities and furthering the cause of unifying groups through collaboration
+* Chairperson(s) can step down or ask to be rotated for sake of availability or trying to remove any perceived inherent bias, or allow others collaboration
+* Chairperson(s) can be rotated if a motion of confidence is raised and seconded, then a two-thirds vote is required for passage.
+* Chairperson(s) must execute the duties of "Chair Format" (before, during, end & after committee meeting)
