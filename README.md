@@ -2,4 +2,4 @@
 
 Committee Social Contract and Guidelines
 
-[Chair](chair.md)
+[Chair](chair/README.md)
