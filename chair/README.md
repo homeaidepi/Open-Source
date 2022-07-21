@@ -1,4 +1,4 @@
-Chair Format & Inner Source Committee Social Contract
+# Chair Format
 
 [Meeting Template](meetingTemplate.md)
 
@@ -10,12 +10,14 @@ Chair Format & Inner Source Committee Social Contract
 
 [After the Meeting](afterMeeting.md)
 
-# Members
+# Inner Source Committee Social Contract
+
+## Members
 [Contributors](contributors.md)
 
 [Chairperson](chairperson.md)
 
-# Terms
+## Terms
 Item: Bullet points, notions or ideas raised in the documentation
 
 Document: The source of record that is under committee review
@@ -57,7 +59,7 @@ Adjourn: A motion is made to end the meeting. A second motion is required. A maj
 then required for the meeting to be adjourned (ended).
 Note: If more than one motion is proposed, the most recent takes precedence over the ones preceding it.
 
-# Modus Operandi
+## Modus Operandi
 * Only one item can be discussed at a time - "The current item". 
 * Once no omissions or objections are raised relating to "The current item" then the next item in order discussed.
 * All members have equal and basic rights — the right to vote, the right to be heard, the right to oppose & the right to chair
@@ -69,4 +71,3 @@ Note: If more than one motion is proposed, the most recent takes precedence over
 * Chairperson will be rotated after 4 weeks for sake 
 * Chairperson can step down or ask to be rotated for sake of availability or trying to remove any perceived inherent bias
 * Chairperson can be rotated if a motion of confidence is seconded & a two-thirds vote is required for passage.
-
