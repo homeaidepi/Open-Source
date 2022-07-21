@@ -1,4 +1,4 @@
-Chair Format & Inner Source Committee Social Contract
+# Chair Format
 
 [Meeting Template](meetingTemplate.md)
 
@@ -10,12 +10,14 @@ Chair Format & Inner Source Committee Social Contract
 
 [After the Meeting](afterMeeting.md)
 
-# Members
+# Inner Source Committee Social Contract
+
+## Members
 [Contributors](contributors.md)
 
 [Chairperson](chairperson.md)
 
-# Terms
+## Terms
 Item: Bullet points, notions or ideas raised in the documentation
 
 Document: The source of record that is under committee review
@@ -23,6 +25,8 @@ Document: The source of record that is under committee review
 Omission: Some detail that is missing that needs clarification or addition to the document
 
 Objections: Some detail may be erroneous or not be beneficial to the document that needs clarification or removal from the document
+
+Passage: Passsed a vote by a majority or super majority
 
 Motion: To introduce a new piece of business or propose a decision or action, a motion must be
 made by a group member ("I move that......") A second motion must then also be made (raise your
@@ -55,7 +59,7 @@ Adjourn: A motion is made to end the meeting. A second motion is required. A maj
 then required for the meeting to be adjourned (ended).
 Note: If more than one motion is proposed, the most recent takes precedence over the ones preceding it.
 
-# Modus Operandi
+## Modus Operandi
 * Only one item can be discussed at a time - "The current item". 
 * Once no omissions or objections are raised relating to "The current item" then the next item in order discussed.
 * All members have equal and basic rights — the right to vote, the right to be heard, the right to oppose & the right to chair
@@ -66,5 +70,4 @@ Note: If more than one motion is proposed, the most recent takes precedence over
 * A vote can be motioned to table (so that deets can be produced for pro's and con's relative to the omission or objections to a part of the document) if a motion to postpone is seconded.
 * Chairperson will be rotated after 4 weeks for sake 
 * Chairperson can step down or ask to be rotated for sake of availability or trying to remove any perceived inherent bias
-* Chairperson can be rotated if a motion of confidence is seconded and an immediate majority vote is confirmed
-
+* Chairperson can be rotated if a motion of confidence is seconded & a two-thirds vote is required for passage.

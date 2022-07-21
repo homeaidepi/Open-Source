@@ -1,6 +1,5 @@
-# OpenSource
-Open Source Root
+# Open Source Root
 
 Committee Social Contract and Guidelines
 
-[Chair](chair.md)
+[Chair](chair/README.md)
