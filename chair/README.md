@@ -24,6 +24,8 @@ Omission: Some detail that is missing that needs clarification or addition to th
 
 Objections: Some detail may be erroneous or not be beneficial to the document that needs clarification or removal from the document
 
+Passage: Passsed a vote by a majority or super majority
+
 Motion: To introduce a new piece of business or propose a decision or action, a motion must be
 made by a group member ("I move that......") A second motion must then also be made (raise your
 hand and say, "I second it.") After limited discussion the group then votes on the motion. A
@@ -66,5 +68,5 @@ Note: If more than one motion is proposed, the most recent takes precedence over
 * A vote can be motioned to table (so that deets can be produced for pro's and con's relative to the omission or objections to a part of the document) if a motion to postpone is seconded.
 * Chairperson will be rotated after 4 weeks for sake 
 * Chairperson can step down or ask to be rotated for sake of availability or trying to remove any perceived inherent bias
-* Chairperson can be rotated if a motion of confidence is seconded and an immediate majority vote is confirmed
+* Chairperson can be rotated if a motion of confidence is seconded & a two-thirds vote is required for passage.
 
