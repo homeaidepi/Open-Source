@@ -61,14 +61,15 @@ Note: If more than one motion is proposed, the most recent takes precedence over
 
 ## Modus Operandi
 * Only one item can be discussed at a time - "The current item". 
-* Once no omissions or objections are raised relating to "The current item" then the next item in order discussed.
-* All members have equal and basic rights — the right to vote, the right to be heard, the right to oppose & the right to chair
+* Once no omissions or objections are raised relating to "The current item" then the next item in order is discussed.
+* All members have equal and basic rights — the right to vote, the right to be heard, the right raise objections or omissions & the right to chair
 * The rights of the minority must be protected.  Others may advocate with their vote to second a motion.
-* Commenting in the chat is how you pull the deli "now serving" tape. Omissions or Objections
-• Every member can speak to any items; however, no one can speak subsequent times as long as another wants to speak for a first time by using the hand raise
-• A majority vote decides an issue - all members have equal rights including chairman.
-* A vote can be motioned to table (so that deets can be produced for pro's and con's relative to the omission or objections to a part of the document) if a motion to postpone is seconded.
+* Commenting in the chat is how you pull the deli "now serving" tape relating to raising objections or omissions
+• Every member can speak to any items; however, no one can speak subsequent times (so long as another wants to speak for a first time by using the hand raise
+• A majority vote decides an issue - all members have equal rights including chairperson(s).
+* A vote can be motioned to table if seconded (so that deets can be produced for pro's and con's relative to the omission or objections to a part of the document) 
 * Chairperson(s) will be rotated after 4 weeks for sake of sharing the responsibilities and furthering the cause of unifying groups through collaboration
 * Chairperson(s) can step down or ask to be rotated for sake of availability or trying to remove any perceived inherent bias, or allow others collaboration
 * Chairperson(s) can be rotated if a motion of confidence is raised and seconded, then a two-thirds vote is required for passage.
 * Chairperson(s) must execute the duties of "Chair Format" (before, during, end & after committee meeting)
+* Chairperson(s) will be rotated as first come first serve through volunteering or if no volunteers a randomizer will be used to pluck a name from the list of contributors except for current chairperson(s)
