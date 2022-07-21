@@ -12,6 +12,7 @@ Chair Format & Inner Source Committee Social Contract
 
 # Members
 [Contributors](contributors.md)
+
 [Chairman](chairman.md)
 
 # Order of Operation
