@@ -10,9 +10,9 @@ Chair Format & Inner Source Committee Social Contract
 
 [After the Meeting](afterMeeting.md)
 
-#Members
-[Chairman](chairman.md) & [Contributors](contributors.md)
-
+# Members
+[Contributors](contributors.md)
+[Chairman](chairman.md)
 
 # Order of Operation
 
