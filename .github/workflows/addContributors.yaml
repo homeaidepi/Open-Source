@@ -1,7 +1,8 @@
 name: Add contributors
-push:
-  branches:
-    [master]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
   add-contributors:
