@@ -1,11 +1,11 @@
 Chair Format
 
-[Meeting Template](chair/meetingTemplate.md)
+[Meeting Template](meetingTemplate.md)
 
-[Before the Meeting](chair/beforeMeeting.md)
+[Before the Meeting](beforeMeeting.md)
 
-[During the Meeting](chair/duringMeeting.md)
+[During the Meeting](duringMeeting.md)
 
-[End the Meeting](chair/endMeeting.md)
+[End the Meeting](endMeeting.md)
 
-[After the Meeting](chair/afterMeeting.md)
+[After the Meeting](afterMeeting.md)
