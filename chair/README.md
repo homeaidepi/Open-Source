@@ -10,7 +10,7 @@
 
 [After the Meeting](afterMeeting.md)
 
-# Inner Source Committee Social Contract
+# Ferguson Inner Source Committee Social Contract
 
 ## Members
 [Contributors](contributors.md)
