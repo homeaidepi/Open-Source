@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "resnickio",
+      "name": "Michael Resnick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73043253?v=4",
+      "profile": "https://github.com/resnickio",
+      "contributions": [
+        "business"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "OpenSource",
+  "projectOwner": "homeaidepi",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
