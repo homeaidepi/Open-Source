@@ -1,4 +1,4 @@
-Chair Format
+Chair Format & Inner Source Committee Social Contract
 
 [Meeting Template](meetingTemplate.md)
 
