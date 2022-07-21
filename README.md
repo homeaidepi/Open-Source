@@ -17,7 +17,7 @@ Thanks goes to these wonderful people:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/resnickio"><img src="https://avatars.githubusercontent.com/u/73043253?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Resnick</b></sub></a><br /><a href="#business-resnickio" title="Business development">💼</a></td>
-    <td align="center"><a href="http://www.homeaidepi.com/"><img src="https://avatars.githubusercontent.com/u/100984270?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vandy</b></sub></a><br /><a href="#business-homeaidepi" title="Business development">💼</a></td>
+    <td align="center"><a href="http://github.com/homeaidepi/"><img src="https://avatars.githubusercontent.com/u/100984270?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vandy</b></sub></a><br /><a href="#business-homeaidepi" title="Business development">💼</a></td>
   </tr>
 </table>
 
