@@ -22,10 +22,19 @@
       "contributions": [
         "business"
       ]
+    },
+    {
+      "login": "adamcox",
+      "name": "Adam Cox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7623?v=4",
+      "profile": "https://github.com/adamcox",
+      "contributions": [
+        "business"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "OpenSource",
+  "projectName": "Open-Source",
   "projectOwner": "homeaidepi",
   "repoType": "github",
   "repoHost": "https://github.com",
