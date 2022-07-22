@@ -1,4 +1,4 @@
-# Chair Format
+# Chair
 
 [Meeting Template](meetingTemplate.md)
 
@@ -10,52 +10,53 @@
 
 [After the Meeting](afterMeeting.md)
 
-# Social Contract Bylaws
-
 ## Members
 [Contributors](contributors.md)
 
 [Chairperson](chairperson.md)
 
-## Terms
-**Item**: Bullet points, notions or ideas raised in the documentation
+## Social Contract
 
-**Document**: The source of record that is under committee review
+### Guiding lights
+* Innovation through meritocracy
+* Imagine someone knows something you dont
+* Hardy debates between passionate members will happen
+* The ideas, opinions & objections can and should come from all
+* Work to question your initial judgement once more with new information
+* Allow us to finding equalibriums across the organization and not just one group, silo or vertical
+* The content will be a living reference and undergo version change and evolution through commits
+* Try think with open source mindsets, where the contributions of many versus the few help usher things along faster
+* Try to re-consider earlier assumptions, methods, etc, as you may not find the same benefits & simplicities when compared to alternatives
 
-**Omission**: Some detail that is missing that needs clarification or addition to the document
+### Requirements ###
+* Contributors may commit changes, issue a pull request then once approvals by many members will it be codified into current reference
 
-**Objections**: Some detail may be erroneous or not be beneficial to the document that needs clarification or removal from the document
-
-**Friendly Ammendment**: If the person who made the original motion agrees with the suggested changes, 
+### Terms
+* **Item**: Bullet points, notions or ideas raised in the documentation
+* **Document**: The source of record that is under committee review
+* **Omission**: Some detail that is missing that needs clarification or addition to the document
+* **Objections**: Some detail may be erroneous or not be beneficial to the document that needs clarification or removal from the document
+* **Friendly Ammendment**: If the person who made the original motion agrees with the suggested changes, 
 the amended motion may be voted on without a separate vote to approve the amendment.
-
-**Passage**: Passed a vote by a majority or super majority
-
-**Motion**: To introduce a new piece of business or propose a decision or action, a motion must be
+* **Passage**: Passed a vote by a majority or super majority
+* **Motion**: To introduce a new piece of business or propose a decision or action, a motion must be
 made by a contributor ("I move that......") A second motion must then also be made (raise your
 hand and say, "I second it.") After limited discussion the group then votes on the motion. A
 majority vote is required for the motion to pass (except for motion of confidence which requires a super majority vote)
-
-**Amend**: This is the process used to change a motion under consideration. Perhaps you like the idea
+* **Amend**: This is the process used to change a motion under consideration. Perhaps you like the idea
 proposed but not exactly as offered. Raise your hand and make the following motion: "I move to
 amend the motion on the floor." This also requires a second. After the motion to amend is seconded,
 a majority vote is needed to decide whether the amendment is accepted. Then a vote is taken on the
 amended motion. We can recognize a "friendly amendment" in some cases.
-
-**Question**: To end a discussion immediately, the question is called (say "I call the question") and needs a
-second. A vote is held immediately (no further discussion is allowed). A two-thirds vote is required
-for passage. If it is passed, the motion on the floor is voted on immediately.
-
-**Table**: To table a discussion is to lay aside the business at hand in such a manner that it will be
+* **Table**: To table a discussion is to lay aside the business at hand in such a manner that it will be
 considered later in the meeting or at another time ("I make a motion to table this discussion until the
 next meeting. In the meantime, we will get more information so we can better discuss the issue.") A
 second is needed and a majority vote required to table the item being discussed.
-
-**Adjourn**: A motion is made to end the meeting. A second motion is required. A majority vote is
+* **Adjourn**: A motion is made to end the meeting. A second motion is required. A majority vote is
 then required for the meeting to be adjourned (ended).
 Note: If more than one motion is proposed, the most recent takes precedence over the ones preceding it.
 
-## Modus Operandi
+### Modus Operandi
 * Only one item can be discussed at a time - "The current item". 
 * Once no omissions or objections are raised relating to "The current item" then the next item in order is discussed.
 * All members have equal and basic rights — the right to vote, the right to be heard, the right raise objections or omissions & the right to chair
@@ -69,3 +70,17 @@ Note: If more than one motion is proposed, the most recent takes precedence over
 * Chairperson(s) can be rotated if a motion of confidence is raised and seconded, then a two-thirds vote is required for passage.
 * Chairperson(s) must execute the duties of "Chair Format" (before, during, end & after committee meeting)
 * Chairperson(s) will be rotated as first come first serve through volunteering or if no volunteers a randomizer will be used to pluck a name from the list of contributors except for current chairperson(s)
+
+### Branch Rules
+* Require a pull request before merging
+When enabled, all commits must be made to a non-protected branch and submitted via a pull request before they can be merged into a branch that matches this rule.
+* Require approvals
+When enabled, pull requests targeting a matching branch require a number of approvals and no changes requested before they can be merged.
+* Required number of approvals before merging is 6
+* Require review from Code Owners
+Require an approved review in pull requests including files with a designated code owner.
+* Require conversation resolution before merging
+When enabled, all conversations on code must be resolved before a pull request can be merged into a branch that matches this rule.
+* Include administrators
+Enforce all configured restrictions above for administrators.
+* Branch name is "merge-rules"
